@@ -46,6 +46,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44278#From-the-Earth-to-the-Moon-Direct-in-Ninety-Seven-Hours-and-Twenty-Minutes--and-a-Trip-Round-_
 gutenberg_issued: '2013-11-24'
 gutenberg_type: Text
 identifiers:
