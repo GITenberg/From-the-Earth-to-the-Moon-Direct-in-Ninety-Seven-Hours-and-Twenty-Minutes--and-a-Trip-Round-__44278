@@ -1,0 +1,67 @@
+_repo: From-the-Earth-to-the-Moon-Direct-in-Ninety-Seven-Hours-and-Twenty-Minutes--and-a-Trip-Round-__44278
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Hildibrand, Henri Théophile
+    aliases:
+    - Hildibrand, Henri Theophile
+    - Hildibrand
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '9881'
+    url: http://www.gutenberg.org/2009/agents/9881
+  illustrators:
+  - agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - De Neuville, Alphonse Marie
+    - Neuville, de
+    - Neuville, A. de (Alphonse)
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+  - agent_name: Bayard, Émile Antoine
+    alias: Bayard, Emile Antoine
+    birthdate: 1837
+    deathdate: 1891
+    gutenberg_agent_id: '7533'
+    url: http://www.gutenberg.org/2009/agents/7533
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Bayard
+covers:
+- cover_type: archival
+  image_path: 44278-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44278'
+  lccn: '62056578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Herodotus. History'
+- !lcsh 'Manned space flight -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+title: 'From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes:
+  and a Trip Round It'
+url: http://www.gutenberg.org/ebooks/44278
